@@ -14,6 +14,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![xUnit](https://img.shields.io/badge/-xUnit-02569B?logo=xunit&logoColor=white&style=for-the-badge)
 
+## 💻 Projects
+
+- [BeHealthy-Beta](https://github.com/VasillisZantalis/BeHealthy-Beta) – A hospital management system built with ASP.NET Core and Blazor. Handles patient records, appointments, and staff management.
+- [ShadowNetBackend](https://github.com/VasillisZantalis/ShadowNetBackend) – A .NET API project focused on backend services, Docker support, and scalable architecture.
+
 
 ---
 
