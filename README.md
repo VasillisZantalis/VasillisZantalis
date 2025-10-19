@@ -4,15 +4,16 @@
 
 ## 🛠️ Skills & Tools
 
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
-![BLAZOR](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
-![GIT](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![XUNIT](https://img.shields.io/badge/-xUnit-02569B?logo=xunit&logoColor=white)
-![DOCKER](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Programming-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-Framework-512BD4?style=flat&logo=blazor&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-CSS-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-VersionControl-F05032?style=flat&logo=git&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-Testing-02569B?style=flat&logo=xunit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat&logo=docker&logoColor=white)
+
 
 ---
 
