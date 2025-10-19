@@ -26,9 +26,3 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vzantalis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/vasiliszantalis)
-
-## 📊 GitHub Stats
-
-![Vasilis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasiliszantalis&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasiliszantalis&layout=compact&theme=radical)
-
