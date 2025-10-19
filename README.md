@@ -4,15 +4,15 @@
 
 ## 🛠️ Skills & Tools
 
-![C#](https://img.shields.io/badge/C%23-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![BLAZOR](https://img.shields.io/badge/BLAZOR-BLAZOR-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![XUNIT](https://img.shields.io/badge/XUNIT-XUNIT-02569B?style=for-the-badge&logo=xunit&logoColor=white)
-![DOCKER](https://img.shields.io/badge/DOCKER-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![BLAZOR](https://img.shields.io/badge/BLAZOR-Framework-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-CSS-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-VersionControl-F05032?style=for-the-badge&logo=git&logoColor=white)
+![XUNIT](https://img.shields.io/badge/XUNIT-Testing-02569B?style=for-the-badge&logo=xunit&logoColor=white)
+![DOCKER](https://img.shields.io/badge/DOCKER-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
