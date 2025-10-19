@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Vasilis Zantalis
 
-**.NET Developer** | Building modern web applications with ASP.NET Core & Blazor 
+**.NET Developer** | Building modern web applications with ASP.NET Core
+
+## ⚡ Fun Facts
+
+- Always exploring new technologies and tinkering with projects  
+- Avid chess player ♟️  
+- Enjoy experimenting with different cuisines in the kitchen 👨‍🍳  
+- Passionate about traveling and discovering new places 🌍
 
 ## 🛠️ Skills & Tools
 
