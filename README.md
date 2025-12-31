@@ -25,7 +25,7 @@
 
 - [BeHealthy-Beta](https://github.com/VasillisZantalis/BeHealthy-Beta) – A hospital management system built with ASP.NET Core and Blazor. Handles patient records, appointments, and staff management.
 - [ShadowNetBackend](https://github.com/VasillisZantalis/ShadowNetBackend) – A .NET API project focused on backend services, Docker support, and scalable architecture.
-
+- [AllyBank](https://github.com/VasillisZantalis/AllyBank) - A Modular .NET banking backend for financial operations
 
 ---
 
